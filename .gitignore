@@ -1,7 +1,7 @@
-# build outputs
-[Bb]in/
-[Oo]bj/
-[Aa]pp/build/
+# build outputs (any level)
+**/[Bb]in/
+**/[Oo]bj/
+**/build/
 .gradle/
 *.apk
 *.aab
