@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.iphonecam.sender"
+4    android:versionCode="1"
+5    android:versionName="0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:4:5-65
+11-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:4:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:5:5-67
+12-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:5:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:6:5-76
+13-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:6:22-73
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:7:5-68
+14-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:7:22-65
+15
+16    <uses-feature
+16-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:8:5-84
+17        android:name="android.hardware.camera"
+17-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:8:19-57
+18        android:required="true" />
+18-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:8:58-81
+19
+20    <application
+20-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:10:5-26:19
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:12:9-43
+24        android:label="iPhoneCam Sender"
+24-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:11:9-41
+25        android:roundIcon="@mipmap/ic_launcher"
+25-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:13:9-48
+26        android:theme="@android:style/Theme.Material.NoActionBar"
+26-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:14:9-66
+27        android:usesCleartextTraffic="true" >
+27-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:15:9-44
+28        <activity
+28-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:16:9-25:20
+29            android:name="com.iphonecam.sender.MainActivity"
+29-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:17:13-41
+30            android:configChanges="orientation|screenSize|keyboardHidden"
+30-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:20:13-74
+31            android:exported="true"
+31-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:18:13-36
+32            android:screenOrientation="portrait" >
+32-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:19:13-49
+33            <intent-filter>
+33-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:21:13-24:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:22:17-69
+34-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:22:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:23:17-77
+36-->C:\Documents\Default Project\iPhoneCam\AndroidSender\app\src\main\AndroidManifest.xml:23:27-74
+37            </intent-filter>
+38        </activity>
+39    </application>
+40
+41</manifest>

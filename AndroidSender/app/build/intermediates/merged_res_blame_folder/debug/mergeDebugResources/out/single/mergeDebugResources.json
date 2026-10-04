@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-debug-4:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-main-6:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-debug-4:\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-main-6:\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-debug-4:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-main-6:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-debug-4:\\drawable_btn_dark.xml.flat",
+        "source": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-main-6:\\drawable\\btn_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-debug-4:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-main-6:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-debug-4:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-main-6:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.iphonecam.sender.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.iphonecam.sender.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-debug-4:\\drawable-nodpi_standby.png.flat",
+        "source": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-main-6:\\drawable-nodpi\\standby.png"
+    },
+    {
+        "merged": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-debug-4:\\drawable_btn_gradient.xml.flat",
+        "source": "C:\\Users\\Bubbles\\.gradle\\daemon\\8.7\\com.iphonecam.sender.app-main-6:\\drawable\\btn_gradient.xml"
+    }
+]

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="iPhoneCam.App/iPhoneCam.App.csproj" />
+  <Project Path="iPhoneCam.Net/iPhoneCam.Net.csproj" />
+  <Project Path="iPhoneCam.Source/iPhoneCam.Source.csproj" />
+</Solution>
