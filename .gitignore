@@ -16,3 +16,7 @@ _captures/
 # OS
 Thumbs.db
 Desktop.ini
+# Android
+local.properties
+# upstream reference (nested git repo, kept local only)
+_upstream/
